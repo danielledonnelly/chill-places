@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
     color: #fff;
-    background: url('https://imgs.search.brave.com/630WlbLjApD92ze2QJ3NXdADIl2zTRGTdM2C1rYA2f8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2E1LzM5/LzMzL2E1MzkzMzU5/YjA4MmYzMjdkZGIz/M2QzZWE0NTY4Y2Yy/LmpwZw') center center fixed; /* Background image from Unsplash */
+    background: url('images/background.png') no-repeat center center fixed; /* Replace 'background.jpg' with the actual filename of your image */
     background-size: cover;
 }
 
