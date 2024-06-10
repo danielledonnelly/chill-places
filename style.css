@@ -67,3 +67,19 @@ h1 {
     margin-right: 5px;
     margin-bottom: 5px;
 }
+
+@media (min-width: 900px) {
+    .container {
+        max-width: 1200px; /* Increase the container width */
+    }
+
+    .locations-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .location {
+        flex: 0 1 calc(50% - 20px); /* Two columns with space between */
+    }
+}
