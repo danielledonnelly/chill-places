@@ -12,6 +12,7 @@ body {
 h1 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: 500;
+    font-size: 60px !important;
     color: #00BEEF;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.9);
     text-shadow: 0 0 5px #000001, 0 0 10px #B00B69, 0 0 15px #B00B69, 0 0 20px #0099ff, 0 0 30px #1874ff, 0 0 40px #20a4f1, 0 0 55px #B00B69, 0 0 75px #6bc8f6, 2px 2px 2px rgba(0,190,239,0);
@@ -29,8 +30,6 @@ h1 {
     padding: 20px;
     border-radius: 8px;
     border: 2px solid #00BEEF;
-    box-shadow: 500px #00BEEF;
-    box-shadow: ;
 }
 
 .location h2 {
