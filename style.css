@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
     color: #fff;
-    background: url('images/background.png') center fixed; /* I made this in Canva. You'd be amazed how hard it is to find a decent background with a vaporwave aesthetic that wasn't made using AI. */
+    background: url('images/background.png') center; /* I made this in Canva. You'd be amazed how hard it is to find a decent background with a vaporwave aesthetic that wasn't made using AI. */
     background-size: cover;
 }
 
@@ -70,7 +70,7 @@ h1 {
 
 @media (min-width: 900px) {
     .container {
-        max-width: 1200px; /* Increase the container width */
+        max-width: 1200px;
     }
 
     .locations-wrapper {
@@ -80,6 +80,6 @@ h1 {
     }
 
     .location {
-        flex: 0 1 calc(50% - 20px); /* Two columns with space between */
+        flex: 0 1 calc(50% - 20px); 
     }
 }
